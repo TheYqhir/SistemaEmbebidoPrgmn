@@ -12,3 +12,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Se creó la carpeta `hardware/`.
 - Se movieron archivos relacionados con hardware a esa carpeta.
 - Se agregó `bom.csv` con la lista de componentes.
+
+### [0.1.0] - 2026-03-13 (Por Daniel Alejandro Reyes Solis)
+
+-Se creó la carpeta 

@@ -18,6 +18,6 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Archivo `diagrama_bloques.png` inicial en el nivel superior (top level) del repositorio.
 - Se agrego diagrama a bloques del hardware 
 ### [0.1.0] - 2026-03-13 (Por Rio Emilio Gil Vargas)
--Añadir sección de arquitectura del firmware de doble núcleo (Core 0 RF / Core 1 HMI)
--Añadir tabla de herramientas y frameworks (ESP-IDF, FreeRTOS, LVGL, C++17, CMake, Git)
-- Añadir tabla de roles del equipo con 6 integrantes en el documento Rolesdelequipo_proyecto.md
+- Añadir sección de arquitectura del firmware de doble núcleo (Core 0 RF / Core 1 HMI)
+  - Añadir tabla de herramientas y frameworks (ESP-IDF, FreeRTOS, LVGL, C++17, CMake, Git)
+-  Añadir tabla de roles del equipo con 6 integrantes en el documento Rolesdelequipo_proyecto.md

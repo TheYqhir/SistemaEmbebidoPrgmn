@@ -24,3 +24,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 ### [0.1.0] - 2026-03-13 (Por Jorge Miguel Saldaña Aguilar)
 - se agrego el archivo `cronograma.md`
+
+### [0.1.0] - 2026-03-13 (Por Axel Daniel Luna Carmona)
+- Búsqueda y hallazgo de la información para la 
+documentación junto con el software, hardware.

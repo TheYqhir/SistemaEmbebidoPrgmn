@@ -15,4 +15,5 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 ### [0.1.0] - 2026-03-13 (Por Daniel Alejandro Reyes Solis)
 
--Se creó la carpeta 
+- Archivo `diagrama_bloques.png` inicial en el nivel superior (top level) del repositorio.
+- Se agrego diagrama a bloques del hardware 

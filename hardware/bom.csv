@@ -1,1 +1,9 @@
 
+Cantidad,Componente,Modelo/Referencia,Descripción
+1,Microcontrolador,ESP32-S3,Controlador principal de doble núcleo con WiFi,Espressif
+1,Pantalla TFT,ILI9341 2.8",Pantalla SPI para interfaz gráfica,Genérico
+1,Controlador táctil,FT6236,Controlador para panel táctil capacitivo,I2C
+1,Matriz LED,WS2812B,LEDs RGB direccionables,WorldSemi
+1,Convertidor DC-DC,LM2596,Regulador de voltaje step-down,Texas Instruments
+1,Fuente de alimentación,5V 3A,Fuente principal del sistema,Genérico
+1,Memoria externa,PSRAM 64Mbit,Memoria adicional para buffers,AP Memory

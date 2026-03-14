@@ -1,12 +1,12 @@
 # Sistema Embebido Multi-Núcleo para Análisis Espectral 802.11 y Control Optoelectrónico Asíncrono
 
-## 📖 Descripción del Proyecto
+##  Descripción del Proyecto
 Este repositorio contiene el código fuente y la documentación de un firmware desarrollado en C++ nativo para la arquitectura de doble núcleo **ESP32-S3**. El sistema está diseñado para operar de forma 100% autónoma, prescindiendo de servidores web o conexiones a dispositivos móviles, y orquesta la ejecución concurrente de una interfaz humano-máquina (HMI) avanzada y un analizador de protocolos de red inalámbricos.
 
-## 🎯 Objetivo General
+##  Objetivo General
 Desarrollar un firmware en C++ nativo que orqueste la ejecución concurrente de un motor gráfico táctil y un analizador de protocolos de red inalámbricos. El sistema se despliega sobre una arquitectura de doble núcleo (ESP32-S3), utilizando un Sistema Operativo de Tiempo Real (FreeRTOS) para aislar las cargas de procesamiento de radiofrecuencia de la interfaz humano-máquina (HMI).
 
-## 📋 Objetivos Específicos
+##  Objetivos Específicos
 
 A partir de las competencias técnicas y la arquitectura del sistema, los objetivos específicos del proyecto se dividen en los siguientes puntos clave:
 

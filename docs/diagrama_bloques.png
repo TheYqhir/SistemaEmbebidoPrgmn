@@ -1,5 +1,3 @@
-# Diagrama de Bloques del Hardware
-
-Sistema embebido basado en ESP32-S3 con interfaz HMI y control optoelectrónico.
-
-<img width="306" height="828" alt="Diagrama de bloques del hardware" src="https://github.com/user-attachments/assets/5643e63d-e958-45dc-805a-cb26f7fa486d" />
+<p align="center">
+  <img width="306" height="828" alt="Diagrama de bloques del hardware" src="https://github.com/user-attachments/assets/5643e63d-e958-45dc-805a-cb26f7fa486d">
+</p>
